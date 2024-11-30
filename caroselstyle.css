@@ -1,0 +1,17 @@
+/* Background color matching image tones */
+.row.p-5 {
+    background-color: #fdf2e9; /* Adjust this to match the tones in your image */
+}
+
+/* Text styling for readability */
+.text-align-left {
+    color: #333; /* Neutral text color for contrast */
+}
+
+h3.text-success {
+    color: #4CAF50; /* Green accent for "Flavor with a Purpose" */
+}
+
+ul {
+    margin-left: 1rem; /* Indent list for better alignment */
+}
